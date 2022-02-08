@@ -2,6 +2,9 @@
 
 A Clojure library designed to work with an in-memory version of SQL DB for testing purposes.
 
+[![CircleCI](https://circleci.com/gh/punit-naik/in-memory-sql/tree/master.svg?style=svg)](https://circleci.com/gh/punit-naik/in-memory-sql/tree/master)
+[![Clojars Project](https://img.shields.io/clojars/v/org.clojars.punit-naik/in-memory-sql.svg)](https://clojars.org/org.clojars.punit-naik/in-memory-sql)
+
 ## Usage
 
 ### Test
@@ -9,6 +12,10 @@ A Clojure library designed to work with an in-memory version of SQL DB for testi
 ```
 lein test
 ```
+
+### Code Coverage
+
+[Code Coverage Report](https://punit-naik.github.io/in-memory-sql/coverage)
 
 ## License
 
